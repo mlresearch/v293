@@ -4,7 +4,7 @@ booktitle: Proceedings of the Fourth International Conference on Automated Machi
 shortname: AutoML
 year: '2025'
 volume: '293'
-start: &1 2025-09-08
+start: 2025-09-08
 end: 2025-09-11
 published: 2025-11-11
 conference_number: '4'
@@ -81,7 +81,7 @@ conference:
   url: https://2025.automl.cc/
   location: Cornell Tech, New York, NY, USA
   dates:
-  - *1
+  - 2025-09-08
   - 2025-09-09
   - 2025-09-10
   - 2025-09-11
